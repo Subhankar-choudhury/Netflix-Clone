@@ -1,8 +1,6 @@
 # 🎮 Netflix Clone
+<center>![Uploading Screenshot 2025-04-22 213228.png…]() </center>
 
-<p align="center">
-  <img src="https://github.com/Subhankar-choudhury/Netflix-Clone/assets/54e2a536-25af-42e4-a038-6d2d185650f0" alt="Netflix Clone Screenshot" width="700"/>
-</p>
 
 ## 🌟 Overview
 
