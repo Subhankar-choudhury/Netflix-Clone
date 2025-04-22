@@ -1,7 +1,4 @@
 # 🎮 Netflix Clone
-<center>![Uploading Screenshot 2025-04-22 213228.png…]() </center>
-
-
 ## 🌟 Overview
 
 This project is a **Netflix Clone** built using **HTML** and **CSS**, designed to visually replicate the landing page of Netflix. It features a clean user interface, bold layout, and responsiveness for different screen sizes. It's a great beginner-friendly project to practice front-end skills.
