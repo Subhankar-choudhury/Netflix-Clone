@@ -97,8 +97,8 @@ Made with ❤️ by [Subhankar Choudhury](https://github.com/Subhankar-choudhury
 ## 📬 Contact
 
 Want to collaborate or share feedback?
-📧 [subhankar.personal@gmail.com](mailto:dazai00choudhury@gmail.com)
-🔗 https://www.linkedin.com/in/subhankar-choudhury-67803b255
+📧 [dazai00choudhury@gmail.com](mailto:dazai00choudhury@gmail.com)
+🔗 **LinkedIn: https://www.linkedin.com/in/subhankar-choudhury-67803b255
 
 ---
 
