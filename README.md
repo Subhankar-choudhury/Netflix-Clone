@@ -40,3 +40,59 @@ This Netflix Clone mimics the look and feel of Netflix's homepage. It includes s
 ---
 
 ## 📂 Project Structure
+
+📁 Netflix-Clone/
+├── 📄 index.html
+├── 📄 style.css
+├── 📁 assets/
+│ └── 📁 images/
+│ ├── bg.jpg
+│ └── logo.svg
+│ └── 📁 videos/
+│ └── video1.m4v
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Subhankar-choudhury/Netflix-Clone.git
+cd Netflix-Clone
+2. Run Locally
+Open index.html directly in your browser OR
+
+Use VS Code + Live Server extension for a better dev experience.
+
+🎯 Future Improvements
+🔁 Add accordion behavior to FAQ using JavaScript
+
+👤 Build Login/Sign-up forms
+
+📦 Deploy the project on GitHub Pages / Netlify
+
+🎞️ Add a carousel for featured movies/shows
+
+📄 License
+This project is licensed under the MIT License.
+Use it freely, remix it, or extend it for learning and portfolio purposes.
+
+🙌 Author
+Made with ❤️ by Subhankar Choudhury
+
+📬 Contact
+Want to collaborate or share feedback?
+
+📧 dazai00choudhury@gmail.com
+
+
+💡 Acknowledgements
+Inspired by Netflix's official landing page
+
+Media from Netflix used strictly for educational/demo purposes
+
+yaml
+Copy
+Edit
+
