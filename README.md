@@ -8,91 +8,106 @@ A dynamic, responsive **Netflix landing page clone** made using only **HTML and 
 
 This Netflix Clone mimics the look and feel of Netflix's homepage. It includes sections such as promotional banners, feature highlights, FAQs, and a footer — all fully responsive and built from scratch using HTML and CSS only.
 
-> 📌 No JavaScript or external libraries were used. Yet, it achieves an interactive, polished layout resembling the original Netflix design.
+📌 *No JavaScript or external libraries were used. Yet, it achieves an interactive, polished layout resembling the original Netflix design.*
 
 ---
 
 ## 🚀 Features
 
-- ✅ Fully Responsive Layout (Mobile, Tablet, Desktop)
-- 🎨 Clean, Bold & Modern Netflix-style UI
-- 🖼️ Custom Background Image and Logo
-- 📺 Embedded Autoplay Video for "Watch Everywhere" & "TV" sections
-- 📧 Email CTA Section
-- 🙋‍♂️ FAQ Accordion Design Layout
-- 🔠 Language Selector and Sign In Button Mockup
-- 🔚 Structured Footer with Grid Layout
+* ✅ Fully Responsive Layout (Mobile, Tablet, Desktop)
+* 🎨 Clean, Bold & Modern Netflix-style UI
+* 🖼️ Custom Background Image and Logo
+* 📺 Embedded Autoplay Video for "Watch Everywhere" & "TV" sections
+* 📧 Email CTA Section
+* 🙋‍♂️ FAQ Accordion Design Layout
+* 🔠 Language Selector and Sign In Button Mockup
+* 🔚 Structured Footer with Grid Layout
 
 ---
 
-🖥️ **To view locally**, open `index.html` in any modern browser.
+🖥️ To view locally, open `index.html` in any modern browser.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- Responsive Design with **Media Queries**
-- Fonts via **Google Fonts**
-- Icons via **SVG**
+* HTML5
+* CSS3
+* Responsive Design with Media Queries
+* Fonts via Google Fonts
+* Icons via SVG
 
 ---
 
 ## 📂 Project Structure
 
+```
 📁 Netflix-Clone/
 ├── 📄 index.html
 ├── 📄 style.css
 ├── 📁 assets/
-│ └── 📁 images/
-│ ├── bg.jpg
-│ └── logo.svg
-│ └── 📁 videos/
-│ └── video1.m4v
-
+│   └── 📁 images/
+│       ├── bg.jpg
+│       └── logo.svg
+│   └── 📁 videos/
+│       └── video1.m4v
+```
 
 ---
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/Subhankar-choudhury/Netflix-Clone.git
 cd Netflix-Clone
-2. Run Locally
-Open index.html directly in your browser OR
+```
 
-Use VS Code + Live Server extension for a better dev experience.
+### 2. Run Locally
 
-🎯 Future Improvements
-🔁 Add accordion behavior to FAQ using JavaScript
+Open `index.html` directly in your browser
+**OR**
+Use **VS Code + Live Server extension** for a better development experience.
 
-👤 Build Login/Sign-up forms
+---
 
-📦 Deploy the project on GitHub Pages / Netlify
+## 🎯 Future Improvements
 
-🎞️ Add a carousel for featured movies/shows
+* 🔁 Add accordion behavior to FAQ using JavaScript
+* 👤 Build Login/Sign-up forms
+* 📦 Deploy the project on GitHub Pages / Netlify
+* 🎞️ Add a carousel for featured movies/shows
 
-📄 License
-This project is licensed under the MIT License.
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
 Use it freely, remix it, or extend it for learning and portfolio purposes.
 
-🙌 Author
-Made with ❤️ by Subhankar Choudhury
+---
 
-📬 Contact
+## 🙌 Author
+
+Made with ❤️ by [Subhankar Choudhury](https://github.com/Subhankar-choudhury)
+
+---
+
+## 📬 Contact
+
 Want to collaborate or share feedback?
+📧 [subhankar.personal@gmail.com](mailto:dazai00choudhury@gmail.com)
+🔗 https://www.linkedin.com/in/subhankar-choudhury-67803b255
 
-📧 dazai00choudhury@gmail.com
+---
 
+## 💡 Acknowledgements
 
-💡 Acknowledgements
-Inspired by Netflix's official landing page
+* Inspired by Netflix's official landing page
+* Media from Netflix used strictly for educational/demo purposes
 
-Media from Netflix used strictly for educational/demo purposes
+---
 
-yaml
-Copy
-Edit
+✅ You can now copy this entire thing and paste it directly into your GitHub repository's `README.md` — it'll look perfect with the right formatting.
 
