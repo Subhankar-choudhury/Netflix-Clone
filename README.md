@@ -1,9 +1,3 @@
-# How Does it look like??
-<img width="1892" height="926" alt="image" src="https://github.com/user-attachments/assets/f7af08f6-f198-4fbb-b924-e6caef0069e4" />
-
-
-
-
 
 
 # 🎬 Netflix Clone
@@ -11,6 +5,10 @@
 A dynamic, responsive **Netflix landing page clone** made using only **HTML and CSS**. This project recreates the sleek UI of Netflix India and offers a highly engaging and user-friendly interface. Ideal for those practicing front-end development and web design fundamentals.
 
 ---
+
+# How Does it look like??
+<img width="1892" height="926" alt="image" src="https://github.com/user-attachments/assets/f7af08f6-f198-4fbb-b924-e6caef0069e4" />
+
 
 ## 🌟 Overview
 
