@@ -7,7 +7,8 @@ A dynamic, responsive **Netflix landing page clone** made using only **HTML and 
 ---
 
 # How Does it look like??
-<img width="1892" height="926" alt="image" src="https://github.com/user-attachments/assets/f7af08f6-f198-4fbb-b924-e6caef0069e4" />
+<img width="1892" height="926" alt="image" src="https://github.com/user-attachments/assets/f7af08f6-f198-4fbb-b924-e6caef0069e4" /> <img width="1892" height="832" alt="image" src="https://github.com/user-attachments/assets/99d13310-441c-4bda-8e67-0cbb9de5b101" />
+
 
 
 ## 🌟 Overview
